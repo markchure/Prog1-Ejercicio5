@@ -1,3 +1,4 @@
+//Ingresar 10 números. Mostrar el promedio.
 var max = 10;
 var acumulador=0;
 
